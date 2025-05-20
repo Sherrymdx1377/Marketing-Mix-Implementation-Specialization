@@ -1,2 +1,3 @@
 # Marketing-Mix-Implementation-Specialization
-Take your product through the Marketing Mix. Master the Marketing Mix and take your product to new heights.
+
+In this Specialization we will delve into the marketing mix and the skill-set needed to implement successful marketing strategies. Join us and explore the four key concepts of the marketing mix model, also known as the 4Ps: Product (Brand and Product Management), Pricing, Place (Distribution Channel Strategy and Retail) and Promotion (Communication Strategies, PR and Advertising). This course primarily focuses on implementation so you can immediately apply the lessons learned to your work or to a business idea that you are thinking of taking to market.  After completing the four courses, you will be able to take part in the Capstone Project where you will have the opportunity to put into practice what you have learned in this specialization by running a real product through the marketing mix.
